@@ -1,0 +1,29 @@
+_repo: Sussex-Painted-By-Wilfrid-Ball_67784
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ball, Wilfrid
+    alias: Ball, Wilfrid Williams
+    birthdate: 1853
+    deathdate: 1917
+    gutenberg_agent_id: '53636'
+    url: http://www.gutenberg.org/2009/agents/53636
+    wikipedia: https://en.wikipedia.org/wiki/Wilfrid_Ball
+description: ''
+gutenberg_issued: '2022-04-06'
+identifiers:
+  gutenberg: '67784'
+language: en
+pgterms:marc905: 20210817061119ball
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United Kingdom :A&C Black ltd,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sussex Painted By Wilfrid Ball
+url: http://www.gutenberg.org/ebooks/67784
